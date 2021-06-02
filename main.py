@@ -1,1 +1,3 @@
-print("hello")
+x = input("@")
+Print("hello")
+Print (x)
