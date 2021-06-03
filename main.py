@@ -1,4 +1,4 @@
-x = input("@")
+x = input("Name")
 Print("hello")
 Print (x)
-Print (hshsh)
+Print ("hshsh")
