@@ -1,6 +1,5 @@
 x = input("Name")
-Print("hello")
-Print (x)
+
 Print ("Hello bro")
 k=1
    if k>10;
